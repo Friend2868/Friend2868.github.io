@@ -9,12 +9,12 @@ const projects: Project[] = [
   {
     title: "Elektrifikatsiya",
     techs: ["C#", "Prometheus", "Grafana"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    link: "https://github.com/Stefan-5422/-T5-Elektrifikatsiya",
   },
   {
     title: "Klassik-Videospielsammlung",
     techs: ["JavaFX (Java)"],
-    link: "https://www.linablidi.fr/",
+    link: "https://github.com/LeonRothauer/Klassik-Videospielsammlung",
   },
   {
     title: "Portfolio / Template",
