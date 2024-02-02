@@ -4,7 +4,7 @@ import sitemap from "@astrojs/sitemap";
 
 
 export default defineConfig({
-   site: 'https://zerk.vercel.app',
+   site: 'friend2868.github.io',
   integrations: [tailwind(),  sitemap()]
 });
 
